@@ -10,4 +10,3 @@ I'm L**i** Y**a**o, a operations engineer from Beijing, China.
 -   :seedling: preparation PMP exam
 -   :man: pronouns: he/him
 -   :zap: 蕾打不动
----
